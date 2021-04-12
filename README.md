@@ -3,6 +3,6 @@
 - 🌱 I’m currently a second year Computer Science student at University of Manitoba, Winnipeg, Canada. 
 - 💞️ I’m open to any projects and willing to contribute to them.
 - 📫 You can contact me through LinkedIn or Facebook at: 
-![link](https://www.facebook.com/hungtran3007)
-![link](https://www.linkedin.com/in/hung-tran-370aa61b4/)
+* https://www.facebook.com/hungtran3007
+* https://www.linkedin.com/in/hung-tran-370aa61b4/
 
