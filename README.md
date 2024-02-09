@@ -6,5 +6,5 @@
 
 # My career vision
 
-* ### 👀 Web and Game Developer 
+* ### 💼 Web and Game Developer 
 * ### 💞️ I’m open to any projects and willing to contribute to them.
