@@ -4,7 +4,7 @@
 * ### 🌱 I’m currently pursuing a BSc degree in Computer Science at the University of Manitoba, Winnipeg, MB, Canada.
 * ### 👀 I’m interested in coding, gaming, music and watching movies.
 
-# My career vision
+# My career goal
 
 * ### 💼 Web and Game Developer 
 * ### 💞️ I’m open to any projects and willing to contribute to them.
